@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi, I am Shweta Gupta
 
-I’m a second-year Computer Science student passionate about Full-Stack Web Development and Machine Learning 💻. I enjoy building end-to-end web applications using MongoDB, Express, React, Node.js, along with HTML, CSS, JavaScript, and Tailwind CSS. 🚀 Currently, I’m exploring Machine Learning and strengthening my problem-solving and DSA skills to build efficient and scalable solutions. 🎯 My goal is to grow as a full-stack developer while creating impactful projects that combine clean design, strong backend logic, and intelligent systems.<br><br>
+I’m a third-year Computer Science student passionate about Full-Stack Web Development and Machine Learning. I enjoy building end-to-end web applications using MongoDB, Express, React, Node.js, along with HTML, CSS, JavaScript, and Tailwind CSS.  Currently, I’m exploring Machine Learning and strengthening my problem-solving and DSA skills to build efficient and scalable solutions.  My goal is to grow as a full-stack developer while creating impactful projects that combine clean design, strong backend logic, and intelligent systems.<br><br>
 
 
 ## 🌐 Socials:
