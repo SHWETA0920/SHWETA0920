@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working on full-stack web development projects using the MERN stack. I am looking to collaborate on full-stack and beginner-level machine learning projects, and I am currently learning machine learning while strengthening my problem-solving and DSA skills.**<br><br>
+# Hi, I am Shweta Gupta
+
+I’m a second-year Computer Science student passionate about Full-Stack Web Development and Machine Learning 💻. I enjoy building end-to-end web applications using MongoDB, Express, React, Node.js, along with HTML, CSS, JavaScript, and Tailwind CSS. 🚀 Currently, I’m exploring Machine Learning and strengthening my problem-solving and DSA skills to build efficient and scalable solutions. 🎯 My goal is to grow as a full-stack developer while creating impactful projects that combine clean design, strong backend logic, and intelligent systems.<br><br>
 
 
 ## 🌐 Socials:
