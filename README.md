@@ -4,6 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=SHWETA0920&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="profile views"/>
 
+# Shweta Gupta
+### Full Stack Developer · AI/ML & RAG Systems
+
 </div>
 
 <br>
